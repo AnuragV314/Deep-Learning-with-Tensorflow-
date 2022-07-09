@@ -1,0 +1,188 @@
+
+Just launched with all modern best practices for building neural networks with TensorFlow and passing the TensorFlow Developer Certificate exam!
+
+Join a live online community of over 600,000+ students and a course taught by a TensorFlow certified expert. This course will take you from absolute beginner with TensorFlow, to creating state-of-the-art deep learning neural networks and becoming part of Google's TensorFlow Certification Network.
+
+TensorFlow experts earn up to $204,000 USD a year, with the average salary hovering around $148,000 USD according to 2022 statistics. By passing this certificate, which is officially recognized by Google, you will be joining the growing Machine Learning industry and becoming a top paid TensorFlow developer! If you pass the exam, you will also be part of Google's TensorFlow Developer Network where recruiters are able to find you.
+
+The goal of this course is to teach you all the skills necessary for you to go and pass this exam and get your TensorFlow Certification from Google so you can display it on your resume, LinkedIn, Github and other social media platforms to truly make you stand out.
+
+Here is a full course breakdown of everything we will teach (yes, it's very comprehensive, but don't be intimidated, as we will teach you everything from scratch!):
+
+This course will be very hands on and project based. You won't just be staring at us teach, but you will actually get to experiment, do exercises, and build machine learning models and projects to mimic real life scenarios. Most importantly, we will show you what the TensorFlow exam will look like for you. By the end of it all, you will develop skillsets needed to develop modern deep learning solutions that big tech companies encounter.
+
+
+0 — TensorFlow Fundamentals
+
+Introduction to tensors (creating tensors)
+
+Getting information from tensors (tensor attributes)
+
+Manipulating tensors (tensor operations)
+
+Tensors and NumPy
+
+Using @tf.function (a way to speed up your regular Python functions)
+
+Using GPUs with TensorFlow
+
+
+
+
+1 — Neural Network Regression with TensorFlow
+
+Build TensorFlow sequential models with multiple layers
+
+Prepare data for use with a machine learning model
+
+Learn the different components which make up a deep learning model (loss function, architecture, optimization function)
+
+Learn how to diagnose a regression problem (predicting a number) and build a neural network for it
+
+
+
+2 — Neural Network Classification with TensorFlow
+
+Learn how to diagnose a classification problem (predicting whether something is one thing or another)
+
+Build, compile & train machine learning classification models using TensorFlow
+
+Build and train models for binary and multi-class classification
+
+Plot modelling performance metrics against each other
+
+Match input (training data shape) and output shapes (prediction data target)
+
+
+
+
+3 — Computer Vision and Convolutional Neural Networks with TensorFlow
+
+Build convolutional neural networks with Conv2D and pooling layers
+
+Learn how to diagnose different kinds of computer vision problems
+
+Learn to how to build computer vision neural networks
+
+Learn how to use real-world images with your computer vision models
+
+
+
+4 — Transfer Learning with TensorFlow Part 1: Feature Extraction
+
+Learn how to use pre-trained models to extract features from your own data
+
+Learn how to use TensorFlow Hub for pre-trained models
+
+Learn how to use TensorBoard to compare the performance of several different models
+
+
+
+5 — Transfer Learning with TensorFlow Part 2: Fine-tuning
+
+Learn how to setup and run several machine learning experiments
+
+Learn how to use data augmentation to increase the diversity of your training data
+
+Learn how to fine-tune a pre-trained model to your own custom problem
+
+Learn how to use Callbacks to add functionality to your model during training
+
+
+
+6 — Transfer Learning with TensorFlow Part 3: Scaling Up (Food Vision mini)
+
+Learn how to scale up an existing model
+
+Learn to how evaluate your machine learning models by finding the most wrong predictions
+
+Beat the original Food101 paper using only 10% of the data
+
+
+
+7 — Milestone Project 1: Food Vision
+
+Combine everything you've learned in the previous 6 notebooks to build Food Vision: a computer vision model able to classify 101 different kinds of foods. Our model well and truly beats the original Food101 paper.
+
+
+
+8 — NLP Fundamentals in TensorFlow
+
+Learn to:
+
+Preprocess natural language text to be used with a neural network
+
+Create word embeddings (numerical representations of text) with TensorFlow
+
+Build neural networks capable of binary and multi-class classification using:
+
+RNNs (recurrent neural networks)
+
+LSTMs (long short-term memory cells)
+
+GRUs (gated recurrent units)
+
+CNNs
+
+Learn how to evaluate your NLP models
+
+
+
+9 — Milestone Project 2: SkimLit
+
+Replicate a the model which powers the PubMed 200k paper to classify different sequences in PubMed medical abstracts (which can help researchers read through medical abstracts faster)
+
+
+
+10 — Time Series fundamentals in TensorFlow
+
+Learn how to diagnose a time series problem (building a model to make predictions based on data across time, e.g. predicting the stock price of AAPL tomorrow)
+
+Prepare data for time series neural networks (features and labels)
+
+Understanding and using different time series evaluation methods
+
+MAE — mean absolute error
+
+Build time series forecasting models with TensorFlow
+
+RNNs (recurrent neural networks)
+
+CNNs (convolutional neural networks)
+
+
+
+11 — Milestone Project 3: (Surprise)
+
+If you've read this far, you are probably interested in the course. This last project will be good.. we promise you, so see you inside the course ;)
+
+
+
+TensorFlow is growing in popularity and more and more job openings are appearing for this specialized knowledge. As a matter of fact, TensorFlow is outgrowing other popular ML tools like PyTorch in job market. Google, Airbnb, Uber, DeepMind, Intel, IBM, Twitter, and many others are currently powered by TensorFlow. There is a reason these big tech companies are using this technology and you will find out all about the power that TensorFlow gives developers.
+
+
+We guarantee you this is the most comprehensive online course on passing the TensorFlow Developer Certificate to qualify you as a TensorFlow expert. So why wait? Make yourself stand out by becoming a Google Certified Developer and advance your career.
+
+
+See you inside the course!
+
+What you’ll learn
+Learn to pass Google's official TensorFlow Developer Certificate exam (and add it to your resume)
+Build TensorFlow models using Computer Vision, Convolutional Neural Networks and Natural Language Processing
+Complete access to ALL interactive notebooks and ALL course slides as downloadable guides
+Increase your skills in Machine Learning and Deep Learning, to test your abilities with the TensorFlow assessment exam
+Understand how to integrate Machine Learning into tools and applications
+Learn to build all types of Machine Learning Models using the latest TensorFlow 2
+Build image recognition, object detection, text recognition algorithms with deep neural networks and convolutional neural networks
+Using real world images to visualize the journey of an image through convolutions to understand how a computer “sees” information, plot loss and accuracy
+Applying Deep Learning for Time Series Forecasting
+Gain the skills you need to become a TensorFlow Certified Developer
+Be recognized as a top candidate for recruiters seeking TensorFlow developers
+Are there any course requirements or prerequisites?
+Mac / Windows / Linux - all operating systems work with this course!
+No previous TensorFlow knowledge required. Basic understanding of Machine Learning is helpful
+Who this course is for:
+Anyone who wants to pass the TensorFlow Developer exam so they can join Google's Certificate Network and display their certificate and badges on their resume, GitHub, and social media platforms including LinkedIn, making it easy to share their level of TensorFlow expertise with the world
+Students, developers, and data scientists who want to demonstrate practical machine learning skills through the building and training of models using TensorFlow
+Anyone looking to expand their knowledge when it comes to AI, Machine Learning and Deep Learning
+Anyone looking to master building ML models with the latest version of TensorFlow
